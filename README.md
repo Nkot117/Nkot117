@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Nkot117
 
 **Mobile App Engineer**  
-Android / Kotlin · Product-oriented Development
+Android Engineer
 
 <br/>
 
